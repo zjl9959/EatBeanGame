@@ -1,4 +1,6 @@
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1506429314&bvid=BV1MS42197mV&cid=1626282033&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![bilibili](bilibili.png)
+
+[具体请观看B站视频介绍](https://www.bilibili.com/video/BV1MS42197mV/?spm_id_from=333.999.0.0&vd_source=d93988d0f54268be5baf04237d16cc7c)
 
 # 游戏运行环境
 
